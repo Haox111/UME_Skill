@@ -6,7 +6,7 @@
 
 ---
 
-## 🧋 Milk Tea
+## Milk Tea
 
 | Item | Description | Price |
 |------|-------------|-------|
